@@ -1,0 +1,19 @@
+{
+  "name": "health-check-tool",
+  "version": "0.1.0",
+  "description": "Health-Check Tool for Teams",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amoritan/health-check-tool.git"
+  },
+  "author": "Andi Moritan <amoritan@me.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/amoritan/health-check-tool/issues"
+  },
+  "homepage": "https://github.com/amoritan/health-check-tool#readme"
+}
